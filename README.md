@@ -14,8 +14,8 @@ O curso aborda os principais conceitos e práticas do **Diagrama de Classes da U
 
 ## 📂 Estrutura do Repositório  
 
-<img src="1.png" width="500">
-<img src="2.png" width="500">
+<img src="1.png" width="800">
+<img src="2.png" width="800">
 
 
 ```
